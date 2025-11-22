@@ -1,2 +1,4 @@
 - Menggunakan posthog
+- Menggunakan claudinary
+- mongodb pakai akun ucok
 - 
